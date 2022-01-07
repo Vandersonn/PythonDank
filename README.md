@@ -1,2 +1,2 @@
 # PythonDank
-Curso de Python Danki Code init 12/06/2021
+Curso de Python Danki Code init 07/01/2022
